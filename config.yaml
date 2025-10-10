@@ -5,8 +5,14 @@ teams:
       - jwagantall
     members:
       - thelinuxfoundation
+  - name: nightstream-maintainers
+    maintainers:
+      - sebastiengllmt
+    members:
+      - nicarq
 repositories:
   - name: governance
     teams:
       lf-staff: maintain
+      nightstream-maintainers: maintain
     visibility: public
