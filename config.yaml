@@ -4,10 +4,12 @@ teams:
       - ryjones
       - jwagantall
     members:
+      - christinaharter
+      - minyu66
       - thelinuxfoundation
   - name: nightstream-maintainers
     maintainers:
-      - sebastiengllmt
+      - SebastienGllmt
     members:
       - nicarq
 repositories:
