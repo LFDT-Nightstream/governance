@@ -10,8 +10,12 @@ teams:
   - name: nightstream-maintainers
     maintainers:
       - SebastienGllmt
-    members:
       - nicarq
+    members:
+      - rvcas
+      - L-as
+      - ecioppettini
+      - SpaceManiac
 repositories:
   - name: governance
     teams:
