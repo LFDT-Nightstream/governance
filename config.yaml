@@ -22,3 +22,7 @@ repositories:
       lf-staff: maintain
       nightstream-maintainers: maintain
     visibility: public
+  - name: Starstream
+    teams:
+      nightstream-maintainers: maintain
+    visibility: public
