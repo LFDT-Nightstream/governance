@@ -26,3 +26,7 @@ repositories:
     teams:
       nightstream-maintainers: maintain
     visibility: public
+  - name: Nightstream
+    teams:
+      nightstream-maintainers: maintain
+    visibility: public
