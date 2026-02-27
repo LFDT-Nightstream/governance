@@ -16,6 +16,7 @@ teams:
       - L-as
       - ecioppettini
       - SpaceManiac
+      - guillevalin
 repositories:
   - name: governance
     teams:
