@@ -17,6 +17,9 @@ teams:
       - ecioppettini
       - SpaceManiac
       - guillevalin
+      - BenB-MNF
+      - Karmoola
+      - hbulgarini
 repositories:
   - name: governance
     teams:
@@ -28,6 +31,10 @@ repositories:
       nightstream-maintainers: maintain
     visibility: public
   - name: Nightstream
+    teams:
+      nightstream-maintainers: maintain
+    visibility: public
+  - name: MVE-Planning
     teams:
       nightstream-maintainers: maintain
     visibility: public
